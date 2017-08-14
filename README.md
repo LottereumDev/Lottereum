@@ -1,1 +1,1 @@
-LOTTEREUM - planned reduction in the number of tokens in turnover
+LOTTEREUM - planned reduction in the number of tokens in turnover.

@@ -1,5 +1,5 @@
 pragma solidity ^0.4.2;
-contract owned {
+ñontract owned {
     address public owner;
     address public administrator;
  
@@ -18,7 +18,7 @@ contract owned {
     }
 }
  
-contract tokenRecipient { function receiveApproval(address _from, uint256 _value, address _token, bytes _extraData); }
+ñontract tokenRecipient { function receiveApproval(address _from, uint256 _value, address _token, bytes _extraData); }
  
 contract baseToken is owned {
     
@@ -80,7 +80,7 @@ contract baseToken is owned {
  
 
  
-contract Lottereum is baseToken {
+ñontract Lottereum is baseToken {
     
     uint256 private initialSupplyPerParticipantAddress; 
     
